@@ -1,17 +1,11 @@
 # KL University Homepage
 
-A responsive static homepage based on the HTML/CSS requested in the conversation. The official KL University header image is included locally at `public/klu-logo.jpg`, so the page does not depend on a remote image at runtime.
+A responsive static KL University homepage built with HTML and CSS. The page displays the official KLU header image from the university website.
 
 ## Preview locally
 
-Open `index.html` in a browser, or run:
-
-```bash
-python3 -m http.server 8000
-```
-
-Then visit <http://localhost:8000>.
+Open `index.html` in a browser, or run `python3 -m http.server 8000` and visit <http://localhost:8000>.
 
 ## GitHub Pages
 
-This repository is ready for GitHub Pages. In the repository, open **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/ (root)`, and save.
+To publish, open **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/ (root)`, and save.
