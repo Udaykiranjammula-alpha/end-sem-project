@@ -1,6 +1,6 @@
 # KL University Homepage
 
-A responsive static KL University homepage built with HTML and CSS. The page displays the official KLU header image from the university website.
+A responsive static KL University homepage built with HTML and CSS. The official KLU header image is included in the repository at `public/klu-logo.jpg`, so the page displays it from a local file.
 
 ## Preview locally
 
